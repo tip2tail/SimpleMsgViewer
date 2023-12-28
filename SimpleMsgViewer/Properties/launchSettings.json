@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "SimpleMsgViewer": {
+      "commandName": "Project"
+    },
+    "With File": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Path\\To\\File.msg\""
+    }
+  }
+}
