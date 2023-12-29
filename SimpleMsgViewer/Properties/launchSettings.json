@@ -5,7 +5,7 @@
     },
     "With File": {
       "commandName": "Project",
-      "commandLineArgs": "\"C:\\Path\\To\\File.msg\""
+      "commandLineArgs": "\"C:\\Temp\\Test.msg\""
     }
   }
 }
